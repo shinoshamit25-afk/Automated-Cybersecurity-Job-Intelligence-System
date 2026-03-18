@@ -1,5 +1,3 @@
-# Job-Intelligence-Automation-System-using-n8n
-
 ### Automated Cybersecurity Job Intelligence System
 
 An automated workflow that discovers, filters, and ranks cybersecurity job opportunities using API integration, workflow automation, and rule-based analysis.
@@ -96,7 +94,7 @@ Google Sheets (Job Tracker)
 
 * visa sponsorship
 * sponsorship available
-* TSS / 485 visa
+* 485 visa
 * open to sponsorship
 
 ---
