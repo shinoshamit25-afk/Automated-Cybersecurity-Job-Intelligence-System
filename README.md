@@ -1,4 +1,4 @@
-### Automated Cybersecurity Job Intelligence System
+### Cybersecurity Job Tracking Automation System
 
 An automated workflow that discovers, filters, and ranks cybersecurity job opportunities using API integration, workflow automation, and rule-based analysis.
 
